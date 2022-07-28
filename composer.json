@@ -17,10 +17,13 @@
     "require": {
         "composer/installers": "^1.9",
         "drupal/admin_toolbar": "^3.1",
-        "drupal/core-composer-scaffold": "^9.3",
-        "drupal/core-project-message": "^9.3",
-        "drupal/core-recommended": "^9.3",
-        "drupal/devel": "^4.1"
+        "drupal/bootstrap5": "^1.1",
+        "drupal/core-composer-scaffold": "9.4.0",
+        "drupal/core-project-message": "9.4.0",
+        "drupal/core-recommended": "9.4.0",
+        "drupal/devel": "^4.1",
+        "drupal/twbstools": "2.1.x-dev",
+        "drush/drush": "^11.0"
     },
     "conflict": {
         "drupal/drupal": "*"
